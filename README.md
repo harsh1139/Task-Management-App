@@ -1,2 +1,2 @@
-# Task-Management-App
-Task Management app in Django
+# notezy
+A simple note taking app using Django
